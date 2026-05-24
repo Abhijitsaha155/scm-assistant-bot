@@ -1,0 +1,8 @@
+.env
+.env.local
+*.env
+apikeys.txt
+credentials.json
+node_modules/
+**pycache**/
+.DS_Store
